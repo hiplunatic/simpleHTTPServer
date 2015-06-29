@@ -1,4 +1,3 @@
-## simpleHTTPServer
-A simple node HTTP server
+#simply serves HTTP pages. nothing fancy!
 
-#simply serves HTTP pages. nothing facy!
+simple HTTP server built using node.js with no other libraries or dependancies.
